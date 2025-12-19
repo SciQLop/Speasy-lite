@@ -5,3 +5,24 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - pycdfpp
+  - matplotlib
+  - bqplot
+  - numpy
+  - ipympl
+  - ipydatagrid
+  - pandas
+  - requests
+  - xarray
+  - PyYAML
+  - tqdm
+  - astropy
+  - scikit-learn
+  - scipy
+  - pip:
+    - diskcache 
+    - appdirs 
+    - humanize
+    - speasy>=1.7.1
+    - pyistp
+    - astroquery
